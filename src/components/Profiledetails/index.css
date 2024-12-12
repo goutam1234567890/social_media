@@ -1,0 +1,46 @@
+.bg-image {
+    width: 100%;
+    height: 189px;
+    border-radius: 0px 0px 20px 20px;
+    background-image: url("https://res.cloudinary.com/dqhagljvz/image/upload/v1733895640/e03f5843a9e45ac45d45afb62caf7b85_cfkfmd.png");
+    background-size: cover;
+}
+
+.left-arrow {
+    width: 32px;
+    height: 32px;
+    top: 25px;
+    left: 16px;
+    padding: 8.02px 6.4px 8px 6.4px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+    color: white;
+}
+
+.avatar-photo {
+    position: relative;
+    width: 112px;
+    height: 112px;
+    top: -55px;
+    left: 16px;
+}
+
+.edit-profile {
+    width: 200px;
+    height: 32px;
+    padding: 5px 16px 5px 16px;
+    border-radius: 36px;
+    border: 1px solid;
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    position: relative;
+    top: -100px;
+    left: 130px;
+    align-items: center;
+}
+.edit-link{
+    text-decoration: none;
+}

@@ -1,0 +1,110 @@
+.listItem{
+    width: 328px;
+    height: 341px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.postImages{
+    height: 168px;
+}
+.bottom-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.share-button{
+    height: 30px;
+    border-radius: 30px;
+    padding: 7px 26px 7px 26px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+.popup-container{
+    height: 328px;
+    width: 335px;
+    border-radius: 12px;
+}
+.share-name{
+    font-family: "Karla";
+    font-size: 22px;
+    font-weight: 800;
+    color: #000000;
+}
+.twitter-logo{
+    height: 24px;
+    width: 24px;
+    color:  #1DA1F2;
+    background-color: #E8F5FD;
+    padding: 15px;
+    border-radius: 50px;
+}
+
+.facebook-logo{
+    color: #1DA1F2;
+    background-color: #E8F5FD;
+    height: 24px;
+    width: 24px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.reddit-logo{
+    color: #FF4500;
+    background-color: #FFEEE4;
+    height: 24px;
+    width: 24px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.discord-logo{
+    color: #5865F2;
+    background-color: #EBF0F5;
+    height: 24px;
+    width: 24px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.whatsapp-logo{
+    color: #25D366;
+    background-color: #DCF8C6;
+    height: 24px;
+    width: 24px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.messenger-logo{
+    color: #0084FF;
+    background-color: #E5F1FB;
+    height: 24px;
+    width: 24px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.telegram-logo {
+    color: #0088CC;
+    background-color: #E5F4FF;
+    height: 24px;
+    width: 24px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.instagram-logo{
+    color: #DD2A7B;
+    background-color: #FFEBEE;
+    height: 24px;
+    width: 24px;
+    padding: 15px;
+    border-radius: 50px;
+}
+.logo-container{
+    margin: 5px;
+}
+.cont1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.popup-content{
+    width: 90% !important;
+}

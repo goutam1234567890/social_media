@@ -1,0 +1,15 @@
+.unorderlist{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
+.head{
+    color: #000000;
+    font-family: "Karla";
+    font-weight: 800;
+    font-size: 24px;
+    margin-left: 10px;
+}

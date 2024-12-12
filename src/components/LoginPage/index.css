@@ -1,0 +1,181 @@
+/* @media screen and (max-width: 375px) {
+    .login-container{
+        display: none;
+    }
+} */
+
+
+@media screen and (min-width: 375px) and (max-width: 426px) {
+
+
+    .container1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container {
+        display: flex;
+    }
+
+    .image1 {
+        width: 125px;
+        height: 207px;
+        top: -23px;
+        left: -10px;
+        position: relative;
+        display: flex;
+    }
+
+    .image2 {
+        width: 125px;
+        height: 207px;
+        left: -9px;
+        display: flex;
+        position: relative;
+        top: -15px;
+    }
+
+    .image3 {
+        width: 125px;
+        height: 207px;
+        top: -8px;
+        left: -9px;
+        gap: 0px;
+        opacity: 0px;
+        display: flex;
+        position: relative;
+    }
+
+    .image4 {
+        width: 125px;
+        height: 207px;
+        top: -142px;
+        display: flex;
+        position: relative;
+        left: -4px;
+    }
+
+    .image5 {
+        width: 125px;
+        height: 207px;
+        top: -135px;
+        display: flex;
+        position: relative;
+        left: -4px;
+    }
+
+    .image6 {
+        width: 125px;
+        height: 207px;
+        top: -128px;
+        left: -4px;
+        display: flex;
+        position: relative;
+
+    }
+
+    .image7 {
+        width: 125px;
+        height: 207px;
+        top: -23px;
+        display: flex;
+        position: relative;
+    }
+
+    .image8 {
+        width: 125px;
+        height: 207px;
+        top: -16px;
+        position: relative;
+        display: flex;
+    }
+
+    .image9 {
+        width: 125px;
+        height: 207px;
+        top: -8px;
+        display: flex;
+        position: relative;
+    }
+
+    .login-heading {
+        font-family: "Karla";
+        font-weight: 600;
+        font-size: 28px;
+        color: #000000;
+    }
+
+
+
+    .logo {
+        width: 46px;
+        height: 34px;
+        margin-right: 10px;
+    }
+
+
+
+    .login-button {
+        display: flex;
+        align-items: center;
+        height: 50px;
+        width: 232.59px;
+        border-radius: 26px;
+        background-color: #292929;
+        justify-content: center;
+        position: relative;
+        top: -16px;
+    }
+
+    .head-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .details-container {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        top: -100px;
+        width: 286px;
+        height: 62px;
+    }
+
+    .login-form {
+        background-color: #ffffff;
+        position: absolute;
+        height: 360px;
+        width: 375px;
+        top: 509px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-top-left-radius: 63px;
+        border-top-right-radius: 63px;
+        flex-direction: column;
+    }
+
+    .login-description {
+        font-family: "Kumbh Sans";
+        font-weight: 400;
+        font-size: 16px;
+        color: #000000;
+        margin: 0px;
+    }
+
+    .google-signin {
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 16px;
+        font-family: "Karla";
+        margin-left: 10px;
+
+    }
+}
+
+/* @media screen and (min-width: 426px) {
+    .login-container{
+        display: none;
+    }
+} */

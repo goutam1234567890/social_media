@@ -1,0 +1,24 @@
+.profile-container{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.avatar{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+.headings{
+    font-weight: 600;
+    font-size: 16px;
+    font-family: "Kumbh Sans";
+}
+.welcome{
+    font-weight: 400;
+    font-family: "Kumbh Sans";
+    font-size: 10px;
+    margin: 0px;
+}
+.profile{
+    color: black;
+}
